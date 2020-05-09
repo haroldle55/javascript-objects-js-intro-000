@@ -1,1 +1,1 @@
-const playlist={artistName:song}
+const playlist={artistName:'song'}
